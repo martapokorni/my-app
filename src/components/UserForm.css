@@ -1,0 +1,18 @@
+.form-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.input-field {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.submit-button {
+  padding: 8px 20px;
+  background-color: #2c3947;
+  color: rgb(251, 251, 251);
+  border: solid black;
+  text-align: center;
+  display: block;
+}
